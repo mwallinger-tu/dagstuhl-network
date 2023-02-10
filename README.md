@@ -26,8 +26,8 @@ The base graph (dagstuhl.graphml) represents a network of all recorded events an
 
 **Person**: 
 
-name: string
-dblp: string (dblp url)
+**name**: string
+**dblp**: string (dblp url)
 
 
 **Edge**:
