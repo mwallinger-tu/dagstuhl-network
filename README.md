@@ -32,10 +32,10 @@ The base graph (dagstuhl.graphml) represents a network of all recorded events an
 
 **Edge**:
 
-is_organizer: boolean
-onsite: boolean
-institute: string (e.g. TU Wien)
-country: string (e.g. AT)
+- **is_organizer**: boolean
+- **onsite**: boolean
+- **institute**: string (e.g. TU Wien)
+- **country**: string (e.g. AT)
 
 Furthermore, participant information is not available before 2000. Only the organizers are stated and thus in the graph. graphml** 
 
