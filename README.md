@@ -26,8 +26,8 @@ The base graph (dagstuhl.graphml) represents a network of all recorded events an
 
 **Person**: 
 
-**name**: string
-**dblp**: string (dblp url)
+- **name**: string
+- **dblp**: string (dblp url)
 
 
 **Edge**:
@@ -47,4 +47,4 @@ Lastly, a second view is available where nodes of type "event" are removed and p
 
 ## Filter the graph yourself
 
-See filter.py and other_format.py on how filtering the graph for your own purpose works.
+See *filter.py* and *other_format.py* on how filtering the graph for your own purpose works.
